@@ -17,7 +17,6 @@ const Signup = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add your signup logic here, e.g., make an API request to register the user
     console.log('Form data submitted:', formData);
   };
 
