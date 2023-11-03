@@ -19,6 +19,9 @@ const Header = () => {
       <div className="hero-text">
         <h1>"A bachelor's life is a fine breakfast,<br /> a flat lunch, and a miserable dinner."</h1>
       </div>
+      <div className="">
+        
+      </div>
     </header>
   );
 }
